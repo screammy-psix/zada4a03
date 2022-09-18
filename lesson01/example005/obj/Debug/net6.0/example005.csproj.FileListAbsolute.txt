@@ -1,0 +1,15 @@
+C:\Users\Sveta\Desktop\gitworkspace\lesson01\example005\obj\Debug\net6.0\example005.csproj.AssemblyReference.cache
+C:\Users\Sveta\Desktop\gitworkspace\lesson01\example005\obj\Debug\net6.0\example005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sveta\Desktop\gitworkspace\lesson01\example005\obj\Debug\net6.0\example005.AssemblyInfoInputs.cache
+C:\Users\Sveta\Desktop\gitworkspace\lesson01\example005\obj\Debug\net6.0\example005.AssemblyInfo.cs
+C:\Users\Sveta\Desktop\gitworkspace\lesson01\example005\obj\Debug\net6.0\example005.csproj.CoreCompileInputs.cache
+C:\Users\Sveta\Desktop\gitworkspace\lesson01\example005\bin\Debug\net6.0\example005.exe
+C:\Users\Sveta\Desktop\gitworkspace\lesson01\example005\bin\Debug\net6.0\example005.deps.json
+C:\Users\Sveta\Desktop\gitworkspace\lesson01\example005\bin\Debug\net6.0\example005.runtimeconfig.json
+C:\Users\Sveta\Desktop\gitworkspace\lesson01\example005\bin\Debug\net6.0\example005.dll
+C:\Users\Sveta\Desktop\gitworkspace\lesson01\example005\bin\Debug\net6.0\example005.pdb
+C:\Users\Sveta\Desktop\gitworkspace\lesson01\example005\obj\Debug\net6.0\example005.dll
+C:\Users\Sveta\Desktop\gitworkspace\lesson01\example005\obj\Debug\net6.0\refint\example005.dll
+C:\Users\Sveta\Desktop\gitworkspace\lesson01\example005\obj\Debug\net6.0\example005.pdb
+C:\Users\Sveta\Desktop\gitworkspace\lesson01\example005\obj\Debug\net6.0\example005.genruntimeconfig.cache
+C:\Users\Sveta\Desktop\gitworkspace\lesson01\example005\obj\Debug\net6.0\ref\example005.dll
